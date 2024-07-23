@@ -13,4 +13,4 @@ Welcome to the Telegram Bot! This bot provides two main functionalities: convert
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-bot.git
+   git clone https://github.com/shokhjahon-developer/Telegram-Bot.git
