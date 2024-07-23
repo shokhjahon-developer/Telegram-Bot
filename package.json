@@ -1,0 +1,29 @@
+{
+  "name": "latin-cyrillic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app",
+    "dev": "nodemon src/app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/files": "^1.1.1",
+    "@grammyjs/router": "^2.0.0",
+    "cyrillic-to-latin": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.10.0",
+    "jimp": "^0.22.12",
+    "latin-to-cyrillic": "^1.0.1",
+    "mongoose": "^8.4.1",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
